@@ -1,21 +1,20 @@
-# 👩🏻‍💻 Helena-Barbosa
+#👩‍💻Helena-Barbosa🐬
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Computação. Sou apaixonada por tecnologia, estou em formação Full Stack em desenvolvimento web (Front End e Back End) - DevClub, estudando e desenvolvendo projetos utilizando tecnologias como HTML, CSS, JavaScript, Git, Github, Node e React. linkedin "[Helena-Barbosa] https://www.linkedin.com/in/helena-barbosa-programadora-desenvolvedora
 
-   
+
    <p align="left">
-         <a href="https://github.com/Helena-Barbosa?tab=followers">
+        <a href="https://github.com/Helena-Barbosa?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Helena-Barbosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-         <a href="https://github.com/Helena-Barbosa?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Helena-Barbosa?tab=repositoriessort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Helena-Barbosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        <a href="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail">
-           <img  alt="Mail"src="/.Mail-E61B23.svgalt title=">.
-        </a>
-
-
+         
    </p>
+
+----
+ 
 
 
 ### 🖥️ Linguagens e Tecnologias
@@ -66,7 +65,7 @@ Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Comp
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### ⨋ Estatísticas
 
   <img 
     align="left" 
