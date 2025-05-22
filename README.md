@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Computação. Sou apaixonada por tecnologia, estou em formação Full Stack em desenvolvimento web (Front End e Back End) - DevClub, estudando e desenvolvendo projetos utilizando tecnologias como HTML, CSS, JavaScript, Git, Github, Node e React. linkedin "[Helena-Barbosa] https://www.linkedin.com/in/helena-barbosa-programadora-desenvolvedora
+Olá, sou Helena, moro em São paulo, formada em Ciências da Computação. Sou apaixonada por tecnologia, estou em formação Full Stack em desenvolvimento web (Front End e Back End) - DevClub, estudando e desenvolvendo projetos utilizando tecnologias como HTML, CSS, JavaScript, Git, Github, Node e React. "linkedin"[Helena-Barbosa] https://www.linkedin.com/in/Helena-barbosa-programadora-desenvolvedora
 
 
    <p align="left">
@@ -90,5 +90,6 @@ Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Comp
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-Barbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
+              
+  
   
