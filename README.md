@@ -1,4 +1,4 @@
-#👩‍💻Helena-Barbosa🐬
+👩‍💻Helena-Barbosa🐬
 
 **`Desenvolvedora FullStack`**
 
@@ -91,3 +91,4 @@ Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Comp
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-Barbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
+  
