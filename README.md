@@ -6,11 +6,19 @@ Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Comp
 
 
    <p align="left">
-        <a href="https://github.com/Helena-Barbosa?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Helena-Barbosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Helena-Barbosa?tab=repositoriessort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Helena-Barbosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-         
+
+   <a href="https://github.com/Helena-Barbosa?tab=followers">
+         <img 
+            alt="SEGUIDORES" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Helena-Barbosa?color=236ad3&labelcolor=1155ba&style=for-the-badge&logo=github&label=seguidores&logocolor=white"/></a>
+                 <a href="https://github.com/Helena-Barbosa?tab=followers">
+         <img 
+           alt="Total de estrelas" 
+           title="Total de estrelas Github"
+           src="https://custom-icon-badges.demolab.com/github/stars/Helena-Barbosa?color=55960c&style=for-the-badge&labelcolor=488207&logo=star&label=Estrelas"
+         />  </a>                 
+        
    </p>
 
 ----
@@ -82,5 +90,4 @@ Me chamo Helena, tenho 43 anos, moro em São paulo, formada em Ciências da Comp
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-Barbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
 
